@@ -1,3 +1,9 @@
+--[[
+	Connected Discord-GitHub
+	Discord Username - infinitygamer.
+	Roblox Username - sanityloop
+]]
+
 local GunsModule = {}
 
 GunsModule.ValidGuns = {

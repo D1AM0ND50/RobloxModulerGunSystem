@@ -1,3 +1,9 @@
+--[[
+	Connected Discord-GitHub
+	Discord Username - infinitygamer.
+	Roblox Username - sanityloop
+]]
+
 local HasBlood = true
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

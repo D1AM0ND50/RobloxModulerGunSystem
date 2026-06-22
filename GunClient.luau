@@ -1,3 +1,9 @@
+--[[
+	Connected Discord-GitHub
+	Discord Username - infinitygamer.
+	Roblox Username - sanityloop
+]]
+
 --                                    Customisables
 local Animations: SharedTable = {
 	Idle = "rbxassetid://111435934785103", -- Replace with custom anim Id if you adding any other gun
